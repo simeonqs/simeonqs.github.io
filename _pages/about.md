@@ -30,18 +30,21 @@ I like to approach these questions using three different approaches.
 
 3. Last but not least, I work with different analytical approaches and I'm always happy to work on agent based models or more generally Bayesian statistics. This has already led to a publication together with members of Lucy Aplin's and Damien Farine's lab. 
 
-**Markdown generator**
+# Collaborations
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+I have a hard time always working on the same thing, so I try to get involved in interesting side projects. This also allows me to pursue some of my other research interests such as memory, self-awareness, modelling and conservation biology. 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Memory
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Since my masters project, where we showed that seals and sea lions can remember their own actions, I have had an interest in how animals are aware of what they are doing, and how they remember this. Sara Torres Ortiz is looking into dolphin and parrot memory and I have the privilege of assisting with the design and analysis of these experiments. 
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Deep neural networks
+
+For my PhD I need a lot of analytical tools, especially to analyse the large acoustical datasets. I'm very lucky to collaborate with Christian Bergler and collegues. They have already developed a cleaning tool and a segmentation tool, and we are working on a deep neural net that can provide a binary mask of the acoustical content in a parrots call and cluster this based on latent features. If you are interested in any of the unpublished tools, don't hesitate to contact either Christian or me directly. We are always happy to have other people test it and find all the bugs!
+
+## Conservation biology
+
+My second big passion in the natural sciences is conservation biology. Dr. Dalia Amor Conde has inspired me since I attended her conservation course, and I'm very lucky to have held a position as research assistent in her lab. I'm still working closely with her and her lab to publish some of the work that I did during my time there. 
+
+
+
