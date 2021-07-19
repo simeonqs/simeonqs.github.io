@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Contact details"
+  name             : "Simeon Q. Smeele"
   avatar           : "profile.jpg"
-  bio              : ""
+  bio              : "IMPRS doctoral student at MPI of Animal Behavior and MPI for Evolutionary Anthropology"
   location         : "Radolfzell, Germany"
   employer         :
   googlescholar    : "https://scholar.google.dk/citations?hl=da&user=Ywdc08AAAAAJ"
-  email            :
+  email            : "simeons@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/Simeon-Smeele"
   uri              :
   bitbucket        :
