@@ -12,17 +12,11 @@ redirect_from:
 
 I'm still learning how to create a website using **rmarkdown** and **Github**. Text is also still not proof-read. 
 
-
-![](me.png)
-\linebreak
-\linebreak
+![](/images/fieldwork barcelona.png)
 
 ## PhD
 
 I work with social and vocal complexity in parrots. I try to understand if parrots living in a more complex social context develop more a complex vocal communication system. For this I study the monk parakeet, which is an invasive species in many European cities. Furthermore, I study how vocal systems co-evolve with social systems. Looking at the same question from an ultimate perspective. Besides doing comparative analysis of parrots at the species level, I will again use monk parakeets to see if there is a signal of cultural evolution of vocal systems. I will compare populations in Europe with different invasion histories to see if new or altered vocalisations are innovated and retained in the population.
-
-\linebreak
-\linebreak
 
 ## General interests
 
@@ -35,9 +29,6 @@ I like to approach these questions using three different approaches.
 2. For my PhD most of the work is in the field, where I can observe the parrots natural behaviour in the wild. 
 
 3. Last but not least, I work with different analytical approaches and I'm always happy to work on agent based models or more generally Bayesian statistics. This has already led to a publication together with members of Lucy Aplin's and Damien Farine's lab. 
-
-\linebreak
-\linebreak
 
 **Markdown generator**
 
