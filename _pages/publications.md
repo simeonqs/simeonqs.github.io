@@ -1,16 +1,9 @@
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+bibliography: publications.bib
+nocite: ‘@*’
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# Publications
 
-{% include base_path %}
+<div id="refs"></div>
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
