@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "ger-DE"
-title                    : "Simeon Q. Smeele"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Simeon Q. Smeele"
 description              : &description "IMPRS doctoral student at MPI of Animal Behavior and MPI for Evolutionary Anthropology"
