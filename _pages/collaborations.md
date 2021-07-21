@@ -1,9 +1,11 @@
 ---
-permalink: /collaborations
+permalink: /collaborations/
 title: "Collaborations"
 excerpt: ""
 author_profile: true
 ---
+
+{% include base_path %}
 
 # UNDER DEVELOPMENT
 
