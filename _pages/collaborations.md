@@ -11,8 +11,6 @@ author_profile: true
 
 I'm still learning how to create a website using **rmarkdown** and **Github**. Text is also still not proof-read. 
 
-# Collaborations
-
 I have a hard time always working on the same thing, so I try to get involved in interesting side projects. This also allows me to pursue some of my other research interests such as memory, self-awareness, modelling and conservation biology. 
 
 ## Memory
