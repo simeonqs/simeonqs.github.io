@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: "PhD and general interests"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,13 @@ I'm still learning how to create a website using **rmarkdown** and **Github**. T
 
 ## PhD
 
-I work with social and vocal complexity in parrots. I try to understand if parrots living in a more complex social context develop more a complex vocal communication system. For this I study the monk parakeet, which is an invasive species in many European cities. Furthermore, I study how vocal systems co-evolve with social systems. Looking at the same question from an ultimate perspective. Besides doing comparative analysis of parrots at the species level, I will again use monk parakeets to see if there is a signal of cultural evolution of vocal systems. I will compare populations in Europe with different invasion histories to see if new or altered vocalisations are innovated and retained in the population.
+I work with social and vocal complexity in parrots. I try to understand if parrots living in a more complex social context develop more a complex vocal communication system. For this I study the monk parakeet, which is an invasive species in many European cities. Furthermore, I study how vocal systems co-evolve with social systems. Looking at the same question from an ultimate perspective. Besides doing comparative analysis of parrots at the species level, I will again use monk parakeets to see if there is a signal of cultural evolution of vocal systems. I will compare populations in Europe with different invasion histories to see if new or altered vocalisations are innovated and retained in the population. I'm supervised by Dr. Lucy Aplin and Dr. Mary Brooke McElreath. 
+
+Ongoing work includes:
+
+* A comparative study into how relative brain size can have driving the evolution of long lifespans in parrots (in collaboration with Professor Dalia Amor Conde); for preliminary results see [my talk at ASAB](https://www.youtube.com/watch?v=UuZCXxjj8S8&t=79s)
+* A field study of dialect patterns in monk parakeets across their European invasive range (together Stephen Tyndel)
+* A field study of vocal and social complexity in monk parakeets in Barcelona (in collaboration with Dr. Juan Carlos Senar)
 
 ## General interests
 
