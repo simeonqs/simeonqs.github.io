@@ -52,7 +52,7 @@ redirect_from:
   * Training the youth elite team, adult advanced team and schools
   * Moving the club to new facilities and setting up the new management structure
 
-* February 2014 – June 2014: field assistant
+* February – June 2014: field assistant
   * University of Southern Denmark
   * Collecting data from tit nest boxes
   * Conducting observational study of great tit foraging behaviour
