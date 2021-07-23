@@ -30,9 +30,9 @@ redirect_from:
   * University of Southern Denmark
   * Helping first year Natural Science students work in groups
 
-  * September 2014 - June 2015: teaching assistant
-    * University of Southern Denmark
-    * Teaching first year Natural Science students in the general biology course
+ * September 2014 - June 2015: teaching assistant
+   * University of Southern Denmark
+   * Teaching first year Natural Science students in the general biology course
 
 ## Volunteer experience
 
@@ -47,7 +47,7 @@ redirect_from:
   * Assisting with data collection for psychophysics, conservation and cognition
   * Supervisor: Dr. Kirstin Anderson Hansen
 
-* February 2014 – June 2018: Trainer and member general board
+* February 2014 – June 2018: trainer and member general board
   * Odense SportsKlatreKlub (climbing gym)
   * Training the youth elite team, adult advanced team and schools
   * Moving the club to new facilities and setting up the new management structure
