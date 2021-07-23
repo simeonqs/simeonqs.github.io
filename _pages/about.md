@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# UNDER DEVELOPMENT
-
-I'm still learning how to create a website using **rmarkdown** and **Github**. Text is also still not proof-read. 
-
 ![](/images/fieldwork barcelona.png)
 
 ## PhD
@@ -20,13 +16,15 @@ I work with social and vocal complexity in parrots. I try to understand if parro
 
 Ongoing work includes:
 
-* A comparative study into how relative brain size can have driving the evolution of long lifespans in parrots (in collaboration with Professor Dalia Amor Conde); for preliminary results see [my talk at ASAB](https://www.youtube.com/watch?v=UuZCXxjj8S8&t=79s)
+* A comparative study into how relative brain size can have driven the evolution of long lifespans in parrots (in collaboration with Professor Dalia Amor Conde); for preliminary results see [my talk at ASAB](https://www.youtube.com/watch?v=UuZCXxjj8S8&t=79s)
 * A field study of dialect patterns in monk parakeets across their European invasive range (together Stephen Tyndel)
 * A field study of vocal and social complexity in monk parakeets in Barcelona (in collaboration with Dr. Juan Carlos Senar)
 
+![Tagged monk parakeet preening it's partner (that managed to remove its tag) in Ciutadella park, Barcelona.](/images/monks.png)
+
 ## General interests
 
-Broadly I'm interested in understanding how and why cumulative cultures evolve. I'm especially interested in how communication systems can evolve, both in a species, but also how they can different between populations. To better understand this I would love to study the ontogeny of a vocal repertoire both in the wild and in hand-reared individuals. 
+Broadly I'm interested in understanding how and why cumulative cultures evolve. I'm especially interested in how communication systems can evolve, both in a species, but also how they can differ between populations. To better understand this I would love to study the ontogeny of a vocal repertoire both in the wild and in hand-reared individuals. 
 
 I like to approach these questions using three different approaches. 
 
@@ -34,5 +32,5 @@ I like to approach these questions using three different approaches.
 
 2. For my PhD most of the work is in the field, where I can observe the parrots natural behaviour in the wild. 
 
-3. Last but not least, I work with different analytical approaches and I'm always happy to work on agent based models or more generally Bayesian statistics. This has already led to a publication together with members of Lucy Aplin's and Damien Farine's lab. 
+3. Last but not least, I work with different analytical approaches and I'm always happy to work on agent based models or more generally Bayesian statistics. This has already led to a [publication](https://doi.org/10.1098/rspb.2020.3107) together with members of Lucy Aplin's and Damien Farine's lab. 
 
