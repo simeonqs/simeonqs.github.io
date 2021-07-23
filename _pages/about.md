@@ -20,7 +20,8 @@ Ongoing work includes:
 * A field study of dialect patterns in monk parakeets across their European invasive range (together Stephen Tyndel)
 * A field study of vocal and social complexity in monk parakeets in Barcelona (in collaboration with Dr. Juan Carlos Senar)
 
-![Tagged monk parakeet preening it's partner (that managed to remove its tag) in Ciutadella park, Barcelona.](/images/monks.png)
+![](/images/monks.png)
+*Tagged monk parakeet preening it's partner (that managed to remove its tag) in Ciutadella park, Barcelona.*
 
 ## General interests
 
