@@ -17,7 +17,7 @@ Since my masters project, where we showed that seals and sea lions can remember 
 
 For my PhD I need a lot of analytical tools, especially to analyse the large acoustical datasets. I'm very lucky to collaborate with Christian Bergler and collegues. They have already developed a cleaning tool and a segmentation tool, and we are working on a deep neural net that can provide a binary mask of the acoustical content in a parrots call and cluster this based on latent features. If you are interested in any of the unpublished tools, don't hesitate to contact either Christian or me directly. We are always happy to have other people test it and find all the bugs!
 
-## Conservation biology - Proffesor Dalia Amor Conde et al. 
+## Conservation biology - Professor Dalia Amor Conde et al. 
 
 My second big passion in the natural sciences is conservation biology. Dr. Dalia Amor Conde has inspired me since I attended her conservation course, and I'm very lucky to have held a position as research assistant in her lab. I'm still working closely with her and her lab to publish some of the work that I did during my time there. 
 
