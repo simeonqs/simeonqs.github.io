@@ -1,10 +1,10 @@
 ---
-layout: archive
 title: "CV"
+layout: archive
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+output: pdf_document
+redirect_from: /resume
+author_profile: yes
 ---
 
 {% include base_path %}
@@ -89,3 +89,9 @@ redirect_from:
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+## Organisation
+
+* 2021           co-host Virtual ESLR Workshop (GatherTown)
+* 2021           co-host Virtual IMPRS Grand Challenges Symposium (Zoom)
+* 2020-2021  external PhD representative IMPRS for Organismal Biology

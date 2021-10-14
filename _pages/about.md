@@ -21,7 +21,7 @@ Ongoing work includes:
 * A field study of vocal and social complexity in monk parakeets in Barcelona (in collaboration with Dr. Juan Carlos Senar)
 
 ![](/images/monks.png)
-*Tagged monk parakeet preening it's partner (that managed to remove its tag) in Ciutadella park, Barcelona.*
+*Tagged monk parakeet preening its partner (that managed to remove its tag) in Ciutadella park, Barcelona.*
 
 ## General interests
 
