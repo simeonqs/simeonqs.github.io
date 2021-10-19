@@ -83,6 +83,9 @@ author_profile: yes
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+  
+## Grants and awards
+* 2021 Small Cluster Grant CASCB (€ 10,000)
 
 ## Teaching
 
