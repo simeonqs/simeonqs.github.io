@@ -98,4 +98,4 @@ author_profile: yes
 * 2021-current   Evolutionary Biology Preprint Team Proceedings of the Royal Society
 * 2021           co-host Virtual ESLR Workshop (GatherTown)
 * 2021           co-host Virtual IMPRS Grand Challenges Symposium (Zoom)
-* 2020-2021      external PhD representative IMPRS for Organismal Biology
+* 2020-2022      external PhD representative Max Planck Institute of Animal Behavior
