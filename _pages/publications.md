@@ -17,7 +17,9 @@ author_profile: true
 
 ### 2020
 
-- Nielsen, R. O., da Silva, R., Juergens, J., Staerk, J., Sørensen, L. L., Jackson, J., **Smeele, S. Q.**, & Conde, D. A. (2020). Standardized data to support conservation prioritization for sharks and batoids (Elasmobranchii). Data in brief, 33, 106337. <https://doi.org/10.1016/j.dib.2020.106337> <div class='altmetric-embed' data-doi='10.1016/j.dib.2020.106337'></div>
+- Nielsen, R. O., da Silva, R., Juergens, J., Staerk, J., Sørensen, L. L., Jackson, J., **Smeele, S. Q.**, & Conde, D. A. (2020). Standardized data to support conservation prioritization for sharks and batoids (Elasmobranchii). Data in brief, 33, 106337. <https://doi.org/10.1016/j.dib.2020.106337> 
+
+<div class='altmetric-embed' data-doi='10.1016/j.dib.2020.106337'></div>
 
 - Bergler, C., Schmitt, M., Maier, A., **Smeele, S.**, Barth, V., & Nöth, E. (2020, October). ORCA-CLEAN: A Deep Denoising Toolkit for Killer Whale Communication. In INTERSPEECH (pp. 1136-1140). <http://dx.doi.org/10.21437/Interspeech.2020-1316> 
 
