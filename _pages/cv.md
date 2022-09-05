@@ -63,7 +63,7 @@ author_profile: yes
   * English (fluent)
   * Dutch (fluent)
   * Danish (fluent)
-  * German (beginner)
+  * German (intermediate)
 * Scientific analysis:
   * Bayesian stats
   * Programming in R, Python, Matlab, bash
@@ -74,9 +74,23 @@ author_profile: yes
 
 ## Publications
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+### 2022
+
+- **Smeele, S. Q.**, Conde, D. A., Baudisch, A., Bruslund, S., Iwaniuk, A., Staerk, J., ... & Aplin, L. (2022). Coevolution of relative brain size and life expectancy in parrots. Proceedings of the Royal Society B, 289(1971), 20212397. <https://doi.org/10.1098/rspb.2021.2397>
+
+### 2021
+
+- Cantor, M., Chimento, M., **Smeele, S. Q.**, He, P., Papageorgiou, D., Aplin, L. M., & Farine, D. R. (2021). Social network architecture and the tempo of cumulative cultural evolution. Proceedings of the Royal Society B, 288(1946), 20203107 <https://doi.org/10.1098/rspb.2020.3107>
+
+### 2020
+
+- Nielsen, R. O., da Silva, R., Juergens, J., Staerk, J., Sørensen, L. L., Jackson, J., **Smeele, S. Q.**, & Conde, D. A. (2020). Standardized data to support conservation prioritization for sharks and batoids (Elasmobranchii). Data in brief, 33, 106337. <https://doi.org/10.1016/j.dib.2020.106337>
+
+- Bergler, C., Schmitt, M., Maier, A., **Smeele, S.**, Barth, V., & Nöth, E. (2020, October). ORCA-CLEAN: A Deep Denoising Toolkit for Killer Whale Communication. In INTERSPEECH (pp. 1136-1140). <http://dx.doi.org/10.21437/Interspeech.2020-1316>
+
+### 2021
+
+- **Smeele, S. Q.**, Anderson Hansen, K., Ortiz, S. T., Johansson, F., Kristensen, J. H., Larsson, J., ... & Wahlberg, M. (2019). Memory for own behaviour in pinnipeds. Animal cognition, 22(6), 947-958. <https://doi.org/10.1007/s10071-019-01286-x>
 
 ## Talks
 
