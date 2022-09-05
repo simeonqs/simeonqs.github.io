@@ -27,6 +27,4 @@ author_profile: true
 ### 2021
 
 - **Smeele, S. Q.**, Anderson Hansen, K., Ortiz, S. T., Johansson, F., Kristensen, J. H., Larsson, J., ... & Wahlberg, M. (2019). Memory for own behaviour in pinnipeds. Animal cognition, 22(6), 947-958. <https://doi.org/10.1007/s10071-019-01286-x> 
-  <div class='altmetric-embed' data-doi='<div class='altmetric-embed' data-doi='10.1007/s10071-019-01286-x'></div>
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+  <div class='altmetric-embed' data-doi='10.1007/s10071-019-01286-x'></div>
