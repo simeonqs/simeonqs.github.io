@@ -26,6 +26,7 @@ author_profile: true
   <div class='altmetric-embed' data-doi='10.1016/j.dib.2020.106337'></div>
 
 - Bergler, C., Schmitt, M., Maier, A., **Smeele, S.**, Barth, V., & Nöth, E. (2020, October). **ORCA-CLEAN: A Deep Denoising Toolkit for Killer Whale Communication**. In INTERSPEECH (pp. 1136-1140). <http://dx.doi.org/10.21437/Interspeech.2020-1316> 
+  <div class='altmetric-embed' data-doi='10.21437/Interspeech.2020-1316'></div>
 
 ### 2021
 
