@@ -109,7 +109,7 @@ author_profile: yes
   
 ## Grants and awards
 * 2021 Small Cluster Grant CASCB (€ 10,000)
-* 2022 Small Cluster Grant CASB (€ 10,000)
+* 2022 Small Cluster Grant CASCB (€ 10,000)
 
 ## Teaching
 
