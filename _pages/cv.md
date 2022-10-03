@@ -109,6 +109,7 @@ author_profile: yes
   
 ## Grants and awards
 * 2021 Small Cluster Grant CASCB (€ 10,000)
+* 2022 Small Cluster Grant CASB (€ 10,000)
 
 ## Teaching
 
@@ -119,6 +120,7 @@ author_profile: yes
 ## Organisation
 
 * 2021-current   Evolutionary Biology Preprint Team Proceedings of the Royal Society
+* 2021-current   member Sustainability Group MPI-AB 
 * 2021           co-host Virtual ESLR Workshop (GatherTown)
 * 2021           co-host Virtual IMPRS Grand Challenges Symposium (Zoom)
 * 2020-2022      external PhD representative Max Planck Institute of Animal Behavior
