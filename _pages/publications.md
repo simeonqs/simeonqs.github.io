@@ -34,7 +34,7 @@ author_profile: true
 
 - Bergler, C., Schmitt, M., Maier, A., **Smeele, S.**, Barth, V., & Nöth, E. (2020, October). **ORCA-CLEAN: A Deep Denoising Toolkit for Killer Whale Communication**. In INTERSPEECH (pp. 1136-1140). <http://dx.doi.org/10.21437/Interspeech.2020-1316> 
 
-### 2021
+### 2019
 
 - **Smeele, S. Q.**, Anderson Hansen, K., Ortiz, S. T., Johansson, F., Kristensen, J. H., Larsson, J., ... & Wahlberg, M. (2019). **Memory for own behaviour in pinnipeds**. Animal cognition, 22(6), 947-958. <https://doi.org/10.1007/s10071-019-01286-x> 
   <div class='altmetric-embed' data-doi='10.1007/s10071-019-01286-x'></div>
