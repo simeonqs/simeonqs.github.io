@@ -14,6 +14,12 @@ author_profile: true
   
 - **Smeele, S. Q.** (2022). **Using relative brain size as predictor variable: Serious pitfalls and solutions**. Ecology and Evolution, 12, e9273. <https://doi.org/10.1002/ece3.9273> 
   <div class='altmetric-embed' data-doi='10.1002/ece3.9273'></div>
+  
+- **Simeon Q. Smeele**\*, Stephen A. Tyndel\*, Lucy A. Aplin & Mary Brooke McElreath. (2022). **Multi-level analysis of monk parakeet vocalisations shows emergent dialects between cities in the European invasive range**. BioRxiv. <https://doi.org/10.1101/2022.10.12.511863> [\* co-first author]
+  <div class='altmetric-embed' data-doi='10.1101/2022.10.12.511863'></div>
+  
+- Sara Torres Ortiz, **Simeon Q. Smeele**, Juliette Champenois & Auguste M. P. von Bayern. (2022). **What did I do? Memory for own actions in parrots**. Research Square. <https://doi.org/10.21203/rs.3.rs-2098690/v1> 
+  <div class='altmetric-embed' data-doi='10.21203/rs.3.rs-2098690/v1'></div>
 
 ### 2021
 
