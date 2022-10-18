@@ -83,12 +83,19 @@ author_profile: yes
   
 - **Smeele, S. Q.** (2022). **Using relative brain size as predictor variable: Serious pitfalls and solutions**. Ecology and Evolution, 12, e9273. <https://doi.org/10.1002/ece3.9273> 
   <div class='altmetric-embed' data-doi='10.1002/ece3.9273'></div>
+  
+- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2022). **Multi-level analysis of monk parakeet vocalisations shows emergent dialects between cities in the European invasive range**. BioRxiv. <https://doi.org/10.1101/2022.10.12.511863> [\* co-first author]
+  <div class='altmetric-embed' data-doi='10.1101/2022.10.12.511863'></div>
+  
+- Ortiz, S. T., **Smeele, S. Q.**, Champenois, J. & von Bayern, A. M. P. (2022). **What did I do? Memory for own actions in parrots**. Research Square. <https://doi.org/10.21203/rs.3.rs-2098690/v1> 
+  <div class='altmetric-embed' data-doi='10.21203/rs.3.rs-2098690/v1'></div>
+
 
 ### 2021
 
-- Cantor, M.\*, Chimento, M.\*, **Smeele, S. Q.**\*, He, P., Papageorgiou, D., Aplin, L. M., & Farine, D. R. (2021). **Social network architecture and the tempo of cumulative cultural evolution**. Proceedings of the Royal Society B, 288(1946), 20203107 <https://doi.org/10.1098/rspb.2020.3107> [\* co-first author] 
+- Cantor, M.\*, Chimento, M.\*, **Smeele, S. Q.**\*, He, P., Papageorgiou, D., Aplin, L. M., & Farine, D. R. (2021). **Social network architecture and the tempo of cumulative cultural evolution**. Proceedings of the Royal Society B, 288(1946), 20203107. <https://doi.org/10.1098/rspb.2020.3107> [\* co-first author] 
   <div class='altmetric-embed' data-doi='10.1098/rspb.2020.3107'></div>
-
+  
 ### 2020
 
 - Nielsen, R. O., da Silva, R., Juergens, J., Staerk, J., Sørensen, L. L., Jackson, J., **Smeele, S. Q.**, & Conde, D. A. (2020). **Standardized data to support conservation prioritization for sharks and batoids (Elasmobranchii)**. Data in brief, 33, 106337. <https://doi.org/10.1016/j.dib.2020.106337> 
