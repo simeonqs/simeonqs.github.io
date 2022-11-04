@@ -12,7 +12,11 @@ author_profile: yes
 ## Education
 
 * Master of Biology, University of Southern Denmark, 2018
+  * Master Thesis: Chapter I - Pinniped memory for own behaviour, Chapter II - Drivers of pinniped brain size
+  * Courses in behavior, bio-acoustics, terrestrial ecology, statistics, research projects, Matlab, sound and hearing, marine mammals, biodiversity.
 * Bachelor of Biology (minor in Mathematics), University of Southern Denmark, 2016
+  * Bachelor Thesis: Memory of Daubenton's bats
+  * Courses in zoology, botany, ecology, ecotoxicology, statistics and mathematics.
 
 ## Work experience
 
@@ -20,6 +24,10 @@ author_profile: yes
   * Max Planck Institute of Animal Behavior and Max Planck Institute for Evolutionary Anthropology
   * Parrot vocal and social complexity
   * Supervisors: Dr. Mary Brooke McElreath and Dr. Lucy Aplin
+  
+* March 2022 - Oktober 2022: staff member 
+  * Museum Haus Otto Dix
+  * Helping visitors (in German) in the museum during weekends in the summer season
 
 * April - August 2019: research assistant
   * University of Southern Denmark
@@ -115,8 +123,8 @@ author_profile: yes
   {% endfor %}</ul>
   
 ## Grants and awards
-* 2021 Small Cluster Grant CASCB (€ 10,000)
 * 2022 Small Cluster Grant CASCB (€ 10,000)
+* 2021 Small Cluster Grant CASCB (€ 10,000)
 
 ## Teaching
 
