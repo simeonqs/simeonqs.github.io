@@ -18,9 +18,8 @@ author_profile: true
 - **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2022). **Multi-level analysis of monk parakeet vocalisations shows emergent dialects between cities in the European invasive range**. BioRxiv. <https://doi.org/10.1101/2022.10.12.511863> [\* co-first author]
   <div class='altmetric-embed' data-doi='10.1101/2022.10.12.511863'></div>
   
-- Ortiz, S. T., **Smeele, S. Q.**, Champenois, J. & von Bayern, A. M. P. (2022). **What did I do? Memory for own actions in parrots**. Research Square. <https://doi.org/10.21203/rs.3.rs-2098690/v1> 
-  <div class='altmetric-embed' data-doi='10.21203/rs.3.rs-2098690/v1'></div>
-
+- Torres Ortiz, S., **Smeele, S.Q.**, Champenois, J. et al. **Memory for own actions in parrots**. Sci Rep 12, 20561 (2022). <https://doi.org/10.1038/s41598-022-25199-x>
+  <div class='altmetric-embed' data-doi='10.1038/s41598-022-25199-x'></div>
 
 ### 2021
 
