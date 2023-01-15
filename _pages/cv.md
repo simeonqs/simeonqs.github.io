@@ -120,6 +120,14 @@ author_profile: yes
 
 - **Smeele, S. Q.**, Anderson Hansen, K., Ortiz, S. T., Johansson, F., Kristensen, J. H., Larsson, J., ... & Wahlberg, M. (2019). **Memory for own behaviour in pinnipeds**. Animal cognition, 22(6), 947-958. <https://doi.org/10.1007/s10071-019-01286-x> 
   <div class='altmetric-embed' data-doi='10.1007/s10071-019-01286-x'></div>
+  
+## Peer reviews
+* 2022 PLOS Computational Biology
+* 2022 Scientific Reports
+* 2022 Ethology
+* 2022 Ethology
+* 2022 Scientific Reports
+* 2021 Ecology and Evolution
 
 ## Talks
 
@@ -139,7 +147,7 @@ author_profile: yes
   
 ## Organisation
 
-* 2021-current   Evolutionary Biology Preprint Team Proceedings of the Royal Society
+* 2021-current   Preprint Team, Proceedings of the Royal Society
 * 2021-current   member Sustainability Group MPI-AB 
 * 2021           co-host Virtual ESLR Workshop (GatherTown)
 * 2021           co-host Virtual IMPRS Grand Challenges Symposium (Zoom)
