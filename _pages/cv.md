@@ -86,6 +86,11 @@ author_profile: yes
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2023
+
+- Mooney, A., Teare, J. A., Staerk, J., **Smeele, S. Q.**, Rose, P., Edell, R. H., King, C. E., Conrad, L., & Buckley, Y. M. (2023). **Flock size and structure influence reproductive success in four species of flamingo in 540 captive populations worldwide**. Zoo Biology, 1–14. <https://doi.org/10.1002/zoo.21753>
+  <div class='altmetric-embed' data-doi='10.1002/zoo.21753'></div>
+
 ### 2022
 
 - **Smeele, S. Q.**, Conde, D. A., Baudisch, A., Bruslund, S., Iwaniuk, A., Staerk, J., ... & Aplin, L. (2022). **Coevolution of relative brain size and life expectancy in parrots**. Proceedings of the Royal Society B, 289(1971), 20212397. <https://doi.org/10.1098/rspb.2021.2397> 
