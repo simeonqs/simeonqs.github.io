@@ -96,7 +96,7 @@ author_profile: yes
 
 ### 2022
 
-- **Smeele, S. Q.**, Conde, D. A., Baudisch, A., Bruslund, S., Iwaniuk, A., Staerk, J., ... & Aplin, L. (2022). **Coevolution of relative brain size and life expectancy in parrots**. Proceedings of the Royal Society B, 289(1971), 20212397. <https://doi.org/10.1098/rspb.2021.2397> 
+- **Smeele, S. Q.**, Conde, D. A., Baudisch, A., Bruslund, S., Iwaniuk, A., Staerk, J., Wright, T. F., Young, A. M., McElreath, M. B. & Aplin, L. M. (2022). **Coevolution of relative brain size and life expectancy in parrots**. Proceedings of the Royal Society B, 289(1971), 20212397. <https://doi.org/10.1098/rspb.2021.2397> 
   <div class='altmetric-embed' data-doi='10.1098/rspb.2021.2397'></div>
   
 - **Smeele, S. Q.** (2022). **Using relative brain size as predictor variable: Serious pitfalls and solutions**. Ecology and Evolution, 12, e9273. <https://doi.org/10.1002/ece3.9273> 
