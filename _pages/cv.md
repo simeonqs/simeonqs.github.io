@@ -25,7 +25,7 @@ author_profile: yes
   * Parrot vocal and social complexity
   * Supervisors: Dr. Mary Brooke McElreath and Dr. Lucy Aplin
   
-* March 2022 - Oktober 2022: staff member 
+* March 2022 - October 2022: staff member 
   * Museum Haus Otto Dix
   * Helping visitors (in German) in the museum during weekends in the summer season
 
