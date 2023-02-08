@@ -90,6 +90,9 @@ author_profile: yes
 
 - **Smeele, S. Q.**, Senar J. C., Aplin, L. A. & McElreath, M. B. (2023). **Evidence for vocal signatures and voice-prints in a wild parrot**. BioRxiv. <https://doi.org/10.1101/2023.01.20.524864>
   <div class='altmetric-embed' data-doi='10.1101/2023.01.20.524864'></div>
+  
+- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Klump, B. C., Alarcon-Nieto, G. & Aplin, L. M. (2023). **callsync: an R package for alignment and analysis of multi-microphone animal recordings**. BioRxiv. <https://doi.org/10.1101/2023.02.07.527470> [\* co-first author]
+  <div class='altmetric-embed' data-doi='10.1101/2023.02.07.527470'></div>
 
 - Mooney, A., Teare, J. A., Staerk, J., **Smeele, S. Q.**, Rose, P., Edell, R. H., King, C. E., Conrad, L., & Buckley, Y. M. (2023). **Flock size and structure influence reproductive success in four species of flamingo in 540 captive populations worldwide**. Zoo Biology, 1–14. <https://doi.org/10.1002/zoo.21753>
   <div class='altmetric-embed' data-doi='10.1002/zoo.21753'></div>
