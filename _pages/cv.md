@@ -133,6 +133,7 @@ author_profile: yes
   <div class='altmetric-embed' data-doi='10.1007/s10071-019-01286-x'></div>
   
 ## Peer reviews
+* 2023 Methods in Ecology and Evolution
 * 2022 PLOS Computational Biology
 * 2022 Scientific Reports
 * 2022 Ethology
