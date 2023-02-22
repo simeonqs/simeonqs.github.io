@@ -11,7 +11,5 @@ author_profile: yes
 
 {% include base_path %}
 
-<object data="CV.pdf" width="750px" height="750px">
-    <embed src="CV.pdf">
-    </embed>
-</object>
+<embed src="CV.pdf" type="application/pdf" width="100%" height="600px" />
+
