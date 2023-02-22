@@ -9,7 +9,5 @@ redirect_from: /resume
 author_profile: yes
 ---
 
-{% include base_path %}
-
-![](CV.png)
+![](/images/CV.png)
 
