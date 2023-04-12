@@ -1,7 +1,7 @@
 ---
 permalink: /collaborations/
 title: "Collaborations"
-excerpt: "my side projects"
+excerpt: ""
 author_profile: true
 ---
 
