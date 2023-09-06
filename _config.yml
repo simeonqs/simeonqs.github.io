@@ -10,7 +10,7 @@ locale                   : "ger-DE"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Simeon Q. Smeele"
-description              : &description "IMPRS doctoral student at MPI of Animal Behavior and MPI for Evolutionary Anthropology"
+description              : &description "Post-doc at EcoScience, Aarhus University"
 url                      : https://simeonqs.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simeonqs/simeonqs.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Simeon Q. Smeele"
   avatar           : "profile.jpg"
-  bio              : "IMPRS doctoral student at MPI of Animal Behavior and MPI for Evolutionary Anthropology"
-  location         : "Radolfzell, Germany"
+  bio              : "Post-doc at EcoScience, Aarhus University"
+  location         : "Aarhus, Denmark"
   employer         :
   googlescholar    : "https://scholar.google.dk/citations?hl=da&user=Ywdc08AAAAAJ"
   email            : "simeons@hotmail.com"

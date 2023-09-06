@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "PhD and general interests"
+excerpt: "Post-doc and previous PhD experience"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,10 @@ redirect_from:
 ---
 
 ![](/images/fieldwork barcelona.png)
+
+## Post-doc
+
+I'm currently employed as a post-doc at EcoScience, Aarhus University, where I work on monitoring bat activity above land and sea. We use machine learning in combination with passive acoustic monitoring and also employ MOTUS tags to detect individuals directly. I'm also still wrapping up my final PhD chapters, see below. 
 
 ## PhD
 
@@ -25,9 +29,3 @@ Ongoing work includes:
 
 ![](/images/monks.png)
 *Tagged monk parakeet preening its partner (that managed to remove its tag) in Ciutadella park, Barcelona.*
-
-## Other interests and future plans
-
-I really like to work on [other projects](https://simeonqs.github.io/collaborations/) and am always happy to get involved in side projects. I'm especially excited to work with training animals, doing field work and doing comparative analysis or agent based models. This last interest has led to a [publication](https://doi.org/10.1098/rspb.2020.3107) together with members of Dr. Aplin's and Dr. Farine's lab. I also enjoy working on [software](https://simeonqs.github.io/software/) for analysis of acoustic data. 
-
-For future work I would like to continue working on the amazing field site in Barcelona, where Dr. Juan Carlos Senar has a large population of tagged monk parakeets. I think a lot can be learned about the function of call types by detailed observation of the Ciuatadella park population. Also many questions about sociality can be answered here. By expanding the tagging effort to other parks using a relatively low-cost catching technique with long nets, a lot can be learned about the effect of range-expansion on vocal repertoires. Which vocalisations are maintained in the lower density edge populations? Are vocal innovations occuring here? Finally, using short-term captive studies and hand-rearing, I hope to study the extend of social learning on the vocal repertoire. Which vocalisations are socially learned? And how long does it take for these to be reinvented?
