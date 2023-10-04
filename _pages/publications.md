@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2023
  
-- **Smeele, S. Q.**, Senar J. C., Aplin, L. A. & McElreath, M. B. (2023). **Evidence for vocal signatures and voice-prints in a wild parrot**. Royal Society Open Science. <https://doi.org/10.1098/rsos.230835>
+- **Smeele, S. Q.**, Senar J. C., Aplin, L. A. & McElreath, M. B. (2023). **Evidence for vocal signatures and voice-prints in a wild parrot**. R. Soc. open sci. <https://doi.org/10.1098/rsos.230835>
   <div class='altmetric-embed' data-doi='10.1098/rsos.230835'></div>
   
 - *preprint* **Smeele, S. Q.**\*, Tyndel, S. A.\*, Klump, B. C., Alarcon-Nieto, G. & Aplin, L. M. (2023). **callsync: an R package for alignment and analysis of multi-microphone animal recordings**. BioRxiv. <https://doi.org/10.1101/2023.02.07.527470> [\* co-first author]
