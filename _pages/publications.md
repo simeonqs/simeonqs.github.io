@@ -8,6 +8,9 @@ author_profile: true
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ### 2023
+
+- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2023). **Multilevel Bayesian analysis of monk parakeet contact calls shows dialects between European cities**. Behavioral Ecology, arad093, <https://doi.org/10.1093/beheco/arad093> [\* co-first author]
+  <div class='altmetric-embed' data-doi='10.1093/beheco/arad093'></div>
  
 - **Smeele, S. Q.**, Senar J. C., Aplin, L. A. & McElreath, M. B. (2023). **Evidence for vocal signatures and voice-prints in a wild parrot**. R. Soc. open sci. <https://doi.org/10.1098/rsos.230835>
   <div class='altmetric-embed' data-doi='10.1098/rsos.230835'></div>
@@ -25,9 +28,6 @@ author_profile: true
   
 - **Smeele, S. Q.** (2022). **Using relative brain size as predictor variable: Serious pitfalls and solutions**. Ecology and Evolution, 12, e9273. <https://doi.org/10.1002/ece3.9273> 
   <div class='altmetric-embed' data-doi='10.1002/ece3.9273'></div>
-  
-- *preprint* **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2022). **Multi-level analysis of monk parakeet vocalisations shows emergent dialects between cities in the European invasive range**. BioRxiv. <https://doi.org/10.1101/2022.10.12.511863> [\* co-first author]
-  <div class='altmetric-embed' data-doi='10.1101/2022.10.12.511863'></div>
   
 - Bergler, C., **Smeele, S.Q.**, Tyndel, S.A. et al. **ANIMAL-SPOT enables animal-independent signal detection and classification using deep learning**. Sci Rep 12, 21966 (2022). <https://doi.org/10.1038/s41598-022-26429-y>
   <div class='altmetric-embed' data-doi='10.1038/s41598-022-26429-y'></div>
