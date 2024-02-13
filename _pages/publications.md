@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2024
 
-- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2024). **Multilevel Bayesian analysis of monk parakeet contact calls shows dialects between European cities**. Behavioral Ecology, arad093, <https://doi.org/10.1093/beheco/arad093> [\* co-first author]
+- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2024). **Multilevel Bayesian analysis of monk parakeet contact calls shows dialects between European cities**. Behavioral Ecology, Volume 35, Issue 1, January/February 2024, arad093, <https://doi.org/10.1093/beheco/arad093> [\* co-first author]
   <div class='altmetric-embed' data-doi='10.1093/beheco/arad093'></div>
 
 ### 2023
