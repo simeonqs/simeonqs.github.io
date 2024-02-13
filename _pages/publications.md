@@ -7,11 +7,13 @@ author_profile: true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2024
+
+- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2024). **Multilevel Bayesian analysis of monk parakeet contact calls shows dialects between European cities**. Behavioral Ecology, arad093, <https://doi.org/10.1093/beheco/arad093> [\* co-first author]
+  <div class='altmetric-embed' data-doi='10.1093/beheco/arad093'></div>
+
 ### 2023
 
-- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2023). **Multilevel Bayesian analysis of monk parakeet contact calls shows dialects between European cities**. Behavioral Ecology, arad093, <https://doi.org/10.1093/beheco/arad093> [\* co-first author]
-  <div class='altmetric-embed' data-doi='10.1093/beheco/arad093'></div>
- 
 - **Smeele, S. Q.**, Senar J. C., Aplin, L. A. & McElreath, M. B. (2023). **Evidence for vocal signatures and voice-prints in a wild parrot**. R. Soc. open sci. <https://doi.org/10.1098/rsos.230835>
   <div class='altmetric-embed' data-doi='10.1098/rsos.230835'></div>
   
