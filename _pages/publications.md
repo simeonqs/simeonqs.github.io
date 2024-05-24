@@ -9,6 +9,9 @@ author_profile: true
 
 ### 2024
 
+- **Smeele, S. Q.**\*, Tyndel, S. A.\*, Klump, B. C., Alarcon-Nieto, G. & Aplin, L. M. (2024). **callsync: an R package for alignment and analysis of multi-microphone animal recordings**. Ecology and Evolution, 14, e11384. <https://doi.org/10.1002/ece3.11384> [\* co-first author]
+  <div class='altmetric-embed' data-doi='10.1002/ece3.11384'></div>
+
 - **Smeele, S. Q.**\*, Tyndel, S. A.\*, Aplin, L. A. & McElreath, M. B. (2024). **Multilevel Bayesian analysis of monk parakeet contact calls shows dialects between European cities**. Behavioral Ecology, Volume 35, Issue 1, January/February 2024, arad093, <https://doi.org/10.1093/beheco/arad093> [\* co-first author]
   <div class='altmetric-embed' data-doi='10.1093/beheco/arad093'></div>
 
@@ -17,9 +20,6 @@ author_profile: true
 - **Smeele, S. Q.**, Senar J. C., Aplin, L. A. & McElreath, M. B. (2023). **Evidence for vocal signatures and voice-prints in a wild parrot**. R. Soc. open sci. <https://doi.org/10.1098/rsos.230835>
   <div class='altmetric-embed' data-doi='10.1098/rsos.230835'></div>
   
-- *preprint* **Smeele, S. Q.**\*, Tyndel, S. A.\*, Klump, B. C., Alarcon-Nieto, G. & Aplin, L. M. (2023). **callsync: an R package for alignment and analysis of multi-microphone animal recordings**. BioRxiv. <https://doi.org/10.1101/2023.02.07.527470> [\* co-first author]
-  <div class='altmetric-embed' data-doi='10.1101/2023.02.07.527470'></div>
-
 - Mooney, A., Teare, J. A., Staerk, J., **Smeele, S. Q.**, Rose, P., Edell, R. H., King, C. E., Conrad, L., & Buckley, Y. M. (2023). **Flock size and structure influence reproductive success in four species of flamingo in 540 captive populations worldwide**. Zoo Biology, 1–14. <https://doi.org/10.1002/zoo.21753>
   <div class='altmetric-embed' data-doi='10.1002/zoo.21753'></div>
 
