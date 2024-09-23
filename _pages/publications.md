@@ -9,6 +9,8 @@ author_profile: true
 
 ### 2024
 
+- *preprint* **Smeele, S. Q.**, Senar, J. C., McElreath, M. B., & Aplin, L. M. (2024). **The effect of social structure on vocal flexibility in monk parakeets**. bioRxiv, 2024-09. <https://doi.org/10.1101/2024.09.20.614070>
+
 - **Smeele, S. Q.**\*, Tyndel, S. A.\*, Klump, B. C., Alarcon-Nieto, G. & Aplin, L. M. (2024). **callsync: an R package for alignment and analysis of multi-microphone animal recordings**. Ecology and Evolution, 14, e11384. <https://doi.org/10.1002/ece3.11384> [\* co-first author]
   <div class='altmetric-embed' data-doi='10.1002/ece3.11384'></div>
 
