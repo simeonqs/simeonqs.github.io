@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2020-04-16_ASAB_easter
 venue: "ASAB Easter Virtual Meeting"
 date: 2021-04-16
-location: "University of Bristol"
+location: "University of Bristol (online)"
 ---
 
 I presented the preliminary findings of our comparative study about the link between relative brain size and life expectancy in parrots. 
