@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2024
 
-- *preprint* Krasheninnikova, A., **Smeele, S. Q.**, Snijders, M., Haldar, E., Carpenter, J., Zamora, R., Naguib, M., Wolf, J. B., Gahr, M. and von Bayern, A. M., 2024. **Evolution of vocal production learning in parrots**. bioRxiv, 2024-11. <https://doi.org/10.1101/2024.11.05.622162>
+- *preprint* Krasheninnikova, A., **Smeele, S. Q.**, Snijders, M., Haldar, E., Carpenter, J., Zamora, R., Naguib, M., Wolf, J. B., Gahr, M. and von Bayern, A. M. (2024). **Evolution of vocal production learning in parrots**. bioRxiv, 2024-11. <https://doi.org/10.1101/2024.11.05.622162>
   <div class='altmetric-embed' data-doi='10.1101/2024.11.05.622162'></div>
 
 - *preprint* **Smeele, S. Q.**, Senar, J. C., McElreath, M. B., & Aplin, L. M. (2024). **The effect of social structure on vocal flexibility in monk parakeets**. bioRxiv, 2024-09. <https://doi.org/10.1101/2024.09.20.614070>
@@ -37,7 +37,7 @@ author_profile: true
 - **Smeele, S. Q.** (2022). **Using relative brain size as predictor variable: Serious pitfalls and solutions**. Ecology and Evolution, 12, e9273. <https://doi.org/10.1002/ece3.9273> 
   <div class='altmetric-embed' data-doi='10.1002/ece3.9273'></div>
   
-- Bergler, C., **Smeele, S.Q.**, Tyndel, S.A. et al. **ANIMAL-SPOT enables animal-independent signal detection and classification using deep learning**. Sci Rep 12, 21966 (2022). <https://doi.org/10.1038/s41598-022-26429-y>
+- Bergler, C., **Smeele, S.Q.**, S.A., Barnhill, A., Ortiz, S.T., Kalan, A.K., Cheng, R.X., Brinkløv, S., Osiecka, A.N., Tougaard, J. and Jakobsen, F. (2022) **ANIMAL-SPOT enables animal-independent signal detection and classification using deep learning**. Sci Rep 12, 21966. <https://doi.org/10.1038/s41598-022-26429-y>
   <div class='altmetric-embed' data-doi='10.1038/s41598-022-26429-y'></div>
   
 - Torres Ortiz, S., **Smeele, S.Q.**, Champenois, J. & von Bayeren A. M. P. (2022). **Memory for own actions in parrots**. Sci Rep 12, 20561. <https://doi.org/10.1038/s41598-022-25199-x>
