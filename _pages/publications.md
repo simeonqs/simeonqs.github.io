@@ -9,6 +9,9 @@ author_profile: true
 
 ### 2024
 
+- *preprint* Ortiz, S.T., **Smeele, S.Q.**, Osvath, M., Guerrero, A.M., Sanchez, A.H., Ramirez, C.U., Almunia, J. and von Bayern, A.M.P. (2024). **Awareness of the future: Dolphins know when they need to remember for the future**. bioRxiv, 2024-11. <https://doi.org/10.1101/2024.11.28.625857>
+  <div class='altmetric-embed' data-doi='10.1101/2024.11.28.625857'></div>
+
 - *preprint* Krasheninnikova, A., **Smeele, S. Q.**, Snijders, M., Haldar, E., Carpenter, J., Zamora, R., Naguib, M., Wolf, J. B., Gahr, M. and von Bayern, A. M. (2024). **Evolution of vocal production learning in parrots**. bioRxiv, 2024-11. <https://doi.org/10.1101/2024.11.05.622162>
   <div class='altmetric-embed' data-doi='10.1101/2024.11.05.622162'></div>
 
