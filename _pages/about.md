@@ -12,7 +12,7 @@ redirect_from:
 
 ## Post-doc
 
-I'm currently employed as a tenure track researcher at Ecoscience, Aarhus University, where I work on monitoring bat activity above land and sea. We use machine learning in combination with passive acoustic monitoring and also employ MOTUS tags to detect individuals directly.
+I'm currently employed as a tenure track researcher at Ecoscience, Aarhus University, where I work on monitoring bat activity above land and sea. We use machine learning in combination with passive acoustic monitoring and also employ Motus tags to detect individuals directly.
 
 ## PhD
 
