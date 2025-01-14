@@ -12,7 +12,7 @@ redirect_from:
 
 ## Post-doc
 
-I'm currently employed as a post-doc at EcoScience, Aarhus University, where I work on monitoring bat activity above land and sea. We use machine learning in combination with passive acoustic monitoring and also employ MOTUS tags to detect individuals directly. I'm also still wrapping up my final PhD chapters, see below. 
+I'm currently employed as a post-doc at EcoScience, Aarhus University, where I work on monitoring bat activity above land and sea. We use machine learning in combination with passive acoustic monitoring and also employ Motus tags to detect individuals directly. I'm also still wrapping up my final PhD chapters, see below. 
 
 ## PhD
 
