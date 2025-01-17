@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "Post-doc and previous PhD experience"
+excerpt: "Tenure track and previous PhD experience"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 ![](/images/fieldwork barcelona.png)
 
-## Post-doc
+## Tenure track
 
 I'm currently employed as a tenure track researcher at Ecoscience, Aarhus University, where I work on monitoring bat activity above land and sea. We use machine learning in combination with passive acoustic monitoring and also employ Motus tags to detect individuals directly.
 
