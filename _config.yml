@@ -10,7 +10,7 @@ locale                   : "ger-DE"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Simeon Q. Smeele"
-description              : &description "Post-doc at EcoScience, Aarhus University"
+description              : &description "Tenure track researcher at Ecoscience, Aarhus University"
 url                      : https://simeonqs.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simeonqs/simeonqs.github.io"
