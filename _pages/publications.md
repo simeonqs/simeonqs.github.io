@@ -11,6 +11,8 @@ author_profile: true
 
 - **Smeele, S. Q.**, Senar, J. C., McElreath, M. B., & Aplin, L. M. (2025). **The effect of social structure on vocal flexibility in monk parakeets**. R. Soc. open sci. <https://doi.org/10.1098/rsos.241717>
     <div class='altmetric-embed' data-doi='10.1098/rsos.241717'></div>
+- Keck, Sarah M., Alex Barnhill, **Simeon Quirinus Smeele**, Maxine Hsu, Ailin Dolson-Fazio, Christian Bergler, Gregory F. Ball, Cara A. Krieg, and Karan J. Odom. (2025). **Deep machine learning allows classification of male and female songbird songs in a species with highly variable repertoires**. Behaviour, 1(aop), 1-35. <https://doi.org/10.1163/1568539X-bja10324>
+    <div class='altmetric-embed' data-doi=10.1163/1568539X-bja10324'></div>
 
 ### 2024
 
