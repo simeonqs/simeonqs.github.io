@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Tenure track researcher at Ecoscience, Aarhus University"
   location         : "Aarhus, Denmark"
-  employer         : "https://pure.au.dk/portal/da/persons/simeon_smeele%40ecos.au.dk/"
+  employer         : 
   googlescholar    : "https://scholar.google.dk/citations?hl=da&user=Ywdc08AAAAAJ"
   email            : "simeons@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/Simeon-Smeele"
@@ -113,7 +113,10 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+  links:
+    - label: "Personal Page"
+      icon: "fas fa-user"
+      url: "https://pure.au.dk/portal/da/persons/simeon_smeele%40ecos.au.dk/"
 
 # Reading Files
 include:
