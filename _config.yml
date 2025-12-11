@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Tenure track researcher at Ecoscience, Aarhus University"
   location         : "Aarhus, Denmark"
-  employer         :
+  employer         : "https://ecos.au.dk/en/about-ecos/staff/simeon-q-smeele"
   googlescholar    : "https://scholar.google.dk/citations?hl=da&user=Ywdc08AAAAAJ"
   email            : "simeons@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/Simeon-Smeele"
