@@ -7,13 +7,20 @@ author_profile: true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+### 2024
+
+- *preprint* **Smeele, S.Q.**, Hauer, C., Bergler, C., Dechmann, D.K., Dietzer, M.T., Elmeros, M., Fjederholt, E.T., Fogato, A., Kohles, J.E., Noeth, E. and Brinkloev, S.M.M. (2026). **BatSpot: a retrainable neural network for automatic detection and classification of bat echolocation and detection of buzzes and social calls**. bioRxiv, 2026-03. <https://doi.org/10.64898/2026.03.11.711063>
+  <div class='altmetric-embed' data-doi='10.64898/2026.03.11.711063'></div>
+
 ### 2025
 
 - **Smeele, S. Q.**, Senar, J. C., McElreath, M. B., & Aplin, L. M. (2025). **The effect of social structure on vocal flexibility in monk parakeets**. R. Soc. open sci. <https://doi.org/10.1098/rsos.241717>
     <div class='altmetric-embed' data-doi='10.1098/rsos.241717'></div>
-- Staerk, Johanna, Dalia A. Conde, Morgane Tidière, Jean-François Lemaître, András Liker, Balázs Vági, Samuel Pavard, Mathieu Giraudeau, **Simeon Q. Smeele**, Orsolya Vincze, Victor Ronget, Rita da Silva, Zjef Pereboom, Mads F. Bertelsen, Jean-Michel Gaillard, Tamás Székely, and Fernando Colchero, **Sexual selection drives sex difference in adult life expectancy across mammals and birds**. Sci. Adv.11, eady8433 (2025). <https://doi.org/10.1126/sciadv.ady8433>
+    
+- Staerk, J., Conde, D.A., Tidière, M., Lemaître, J.-F., Liker, A., Vági, B., Pavard, S., Giraudeau, M., **Smeele, S.Q.**, Vincze, O., Ronget, V., da Silva, R., Pereboom, Z., Bertelsen, M.F., Gaillard, J.-M., Székely, T., and Colchero, F. **Sexual selection drives sex difference in adult life expectancy across mammals and birds**. Sci. Adv.11, eady8433 (2025). <https://doi.org/10.1126/sciadv.ady8433>
   <div class='altmetric-embed' data-doi='10.1126/sciadv.ady8433'></div>
-- Keck, Sarah M., Alex Barnhill, **Simeon Quirinus Smeele**, Maxine Hsu, Ailin Dolson-Fazio, Christian Bergler, Gregory F. Ball, Cara A. Krieg, and Karan J. Odom. (2025). **Deep machine learning allows classification of male and female songbird songs in a species with highly variable repertoires**. Behaviour, 1(aop), 1-35. <https://doi.org/10.1163/1568539X-bja10324>
+  
+- Keck, S.M., Barnhill, A., **Smeele, S.Q.**, Hsu, M., Dolson-Fazio, A., Bergler, C., Ball, G.F., Krieg, C.A., and Odom, K.J. (2025). **Deep machine learning allows classification of male and female songbird songs in a species with highly variable repertoires**. Behaviour, 1(aop), 1-35. <https://doi.org/10.1163/1568539X-bja10324>
   <div class='altmetric-embed' data-doi='10.1163/1568539X-bja10324'></div>
 
 ### 2024
