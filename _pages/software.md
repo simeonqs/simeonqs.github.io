@@ -9,7 +9,7 @@ author_profile: true
 
 ## BatSpot
 
-`BatSpot` is a convolutional neural network with graphical user interface developed by Christopher Hauer and me. It can detect search phase calls, buzzes and social calls of bats, and classify the search phase calls. It includes a README to help the user retrain the existing model for their specific recording situation. You can find the publication [here](https://doi.org/10.64898/2026.03.11.711063) and the repository with the latest version [here](https://github.com/Hauechri/BatSpot). 
+`BatSpot` is a convolutional neural network with graphical user interface developed by Christopher Hauer and me. It can detect search phase calls, buzzes and social calls of bats, and classify the search phase calls. It includes a README to help the user retrain the existing model for their specific recording situation. You can find the publication [here](https://www.biorxiv.org/content/10.64898/2026.03.11.711063v1.full) and the repository with the latest version [here](https://github.com/Hauechri/BatSpot). 
 
 ## callsync
 
