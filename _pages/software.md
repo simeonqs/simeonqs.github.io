@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Through my PhD I have contributed to two pieces of software to analyse acoustic data:
+## BatSpot
+
+`BatSpot` is a convolutional neural network with graphical user interface developed by Christopher Hauer and me. It can detect search phase calls, buzzes and social calls of bats, and classify the search phase calls. It includes a README to help the user retrain the existing model for their specific recording situation. You can find the publication [here](https://doi.org/10.64898/2026.03.11.711063) and the repository with the latest version [here](https://github.com/Hauechri/BatSpot). 
 
 ## callsync
 
@@ -15,5 +17,5 @@ Through my PhD I have contributed to two pieces of software to analyse acoustic 
 
 ## ANIMAL-SPOT
 
-ANIMAL-SPOT is a convolutional neural network developed by Christian Bergler and others. It has two main functions: (1) signal detections and (2) signal classification, and can be used for any animal species. To read the paper describing the functions and testing its performance on several species go [here](https://www.nature.com/articles/s41598-022-26429-y). If you just want to download the source code and user code go [here](https://github.com/ChristianBergler/ANIMAL-SPOT).
+`ANIMAL-SPOT` is a convolutional neural network developed by Christian Bergler and others. It has two main functions: (1) signal detections and (2) signal classification, and can be used for any animal species. To read the paper describing the functions and testing its performance on several species go [here](https://www.nature.com/articles/s41598-022-26429-y). If you just want to download the source code and user code go [here](https://github.com/ChristianBergler/ANIMAL-SPOT).
 
