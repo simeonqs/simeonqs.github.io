@@ -7,7 +7,7 @@ author_profile: true
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
-### 2024
+### 2026
 
 - *preprint* **Smeele, S.Q.**, Hauer, C., Bergler, C., Dechmann, D.K., Dietzer, M.T., Elmeros, M., Fjederholt, E.T., Fogato, A., Kohles, J.E., Noeth, E. and Brinkloev, S.M.M. (2026). **BatSpot: a retrainable neural network for automatic detection and classification of bat echolocation and detection of buzzes and social calls**. bioRxiv, 2026-03. <https://doi.org/10.64898/2026.03.11.711063>
   <div class='altmetric-embed' data-doi='10.64898/2026.03.11.711063'></div>
