@@ -10,7 +10,7 @@ locale                   : "ger-DE"
 title                    : "About me"
 title_separator          : "-"
 name                     : &name "Simeon Q. Smeele"
-description              : &description "Tenure track researcher at Ecoscience, Aarhus University"
+description              : &description "Tenure Track Assistant Professor at Ecoscience, Aarhus University"
 url                      : https://simeonqs.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "simeonqs/simeonqs.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Simeon Q. Smeele"
   avatar           : "profile.jpg"
-  bio              : "Tenure track researcher at Ecoscience, Aarhus University"
+  bio              : "Tenure Track Assistant Professor at Ecoscience, Aarhus University"
   location         : 
   employer         : "https://pure.au.dk/portal/en/persons/simeon_smeele%40ecos.au.dk"
   googlescholar    : "https://scholar.google.dk/citations?hl=da&user=Ywdc08AAAAAJ"
