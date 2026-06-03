@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching & Supervision"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
@@ -12,6 +12,7 @@ author_profile: true
 ### Post-docs
 
 - 2026 PI two year project
+
 ### Master students
 
 - 2026 Supervisor six month internship
