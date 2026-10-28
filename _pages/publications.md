@@ -11,7 +11,7 @@ author_profile: true
 
 - **Smeele, S.Q.**, Hauer, C., Bergler, C., Dechmann, D.K., Dietzer, M.T., Elmeros, M., Fjederholt, E.T., Fogato, A., Kohles, J.E., Noeth, E. and Brinkloev, S.M.M. (2026). **BatSpot: a retrainable neural network for automatic detection and classification of bat echolocation and detection of buzzes and social calls**. Biological Conservation 321 (2026): 111975. <https://doi.org/10.1016/j.biocon.2026.111975>
   <div class='altmetric-embed' data-doi='10.1016/j.biocon.2026.111975'></div>
-- *preprint* Baier, A.L., Georgiakakis, P., Frommolt, K.H., Brinkløv, **S.M., Smeele, S.Q.**, Planqué, B., Vellinga, W.P., Ghani, B., Stowell, D. and Kalkman, V.J. (2026). **A curated bioacoustics dataset of European bat vocalizationss**. bioRxiv, 2026-09. <https://doi.org/10.32942/X2G40B>
+- *preprint* Baier, A.L., Georgiakakis, P., Frommolt, K.H., Brinkløv, S.M., **Smeele, S.Q.**, Planqué, B., Vellinga, W.P., Ghani, B., Stowell, D. and Kalkman, V.J. (2026). **A curated bioacoustics dataset of European bat vocalizationss**. bioRxiv, 2026-09. <https://doi.org/10.32942/X2G40B>
   <div class='altmetric-embed' data-doi='10.32942/X2G40B'></div>  
 
 ### 2025
